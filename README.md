@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# AboutMe
+
+
+#Hi there 🤳
+
+I'm Hugo from Sweden, and I do content on what do peak my interest mostly data schience and algorithms. I really enjoy learning languages and frameworks.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUGOW04)
+
