@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 I'm Hugo from Sweden, and I do content on what do peak my interest mostly data schience and algorithms. I really enjoy learning languages and frameworks.
 
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGOW04)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUGOW04)
