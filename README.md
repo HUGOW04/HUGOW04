@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 #Hi there 🤳
 
-I'm Hugo from Sweden, and I do content on what do peak my interest mostly data schience and algorithms. I really enjoy learning languages and frameworks.
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
