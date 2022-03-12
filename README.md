@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# AboutMe
+# Statitics 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04)](https://github.com/anuraghazra/github-readme-stats)
