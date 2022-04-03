@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&theme=dark&show_icons=true)
 
-https://ionicabizau.github.io/github-profile-languages/api.html?HUGOW04 
+(https://ionicabizau.github.io/github-profile-languages/api.html?HUGOW04&show_icons=true)
