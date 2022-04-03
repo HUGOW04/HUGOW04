@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 -->
 <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?HUGOW04" frameborder="0"></iframe>
 # Statitics 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+#[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&theme=dark&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-#readme-stats)
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&theme=dark&show_icons=true)
+#![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&theme=dark&show_icons=true)
