@@ -36,7 +36,7 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Sweden</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hugow04&label=Profile%20views&color=0e75b6&style=flat" alt="hugow04" /> </p>
 
