@@ -4,7 +4,7 @@
 
 <br />
 
-<h3 align="center">A passionate fullstack developer from Sweden</h3>
+<h3 align="center">A passionate Softwere Engineer from Sweden</h3>
 
 ### 🛠 &nbsp;Tech Stack
 
