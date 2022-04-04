@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate Softwere Engineer from Sweden</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04" alt="hugow04" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04" alt="hugow04" /></a> </p>
 
 ### Profile Visitors 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=HUGOW04.visitor-badge&left_color=blue&right_color=yellow)
