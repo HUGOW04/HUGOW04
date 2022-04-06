@@ -8,9 +8,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04" alt="hugow04" /></a> </p>
 
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=HUGOW04.visitor-badge&left_color=blue&right_color=yellow)
-<br />
 
 [![Mahbub's github activity graph](https://activity-graph.herokuapp.com/graph?username=HUGOW04&bg_color=ffffff&color=777777&line=ff5200&point=1adbce&area=true&hide_border=true)](https://github.com/NoobMahbub/github-readme-activity-graph)
 
