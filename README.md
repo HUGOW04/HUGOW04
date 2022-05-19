@@ -17,7 +17,7 @@
 
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hugow04&" alt="hugow04" /></p>
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&show_icons=true&locale=en&layout=compact" /></p>
+<p><img width="494" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&show_icons=true&locale=en&layout=compact" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
 
