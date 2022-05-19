@@ -19,7 +19,7 @@
 
 <p><img width="494" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&show_icons=true&locale=en&layout=compact" /></p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
 
 
 
