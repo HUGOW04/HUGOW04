@@ -6,8 +6,8 @@
 ###### (this beauty gif is not mine)
 
 # About me
-[![GitHub Snapi](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/HUGOW04)
-<br/>
+[![GitHub HUGOW04](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/HUGOW04)
+
 
 
 As for now I'm 17 years old aspiring developer.
@@ -24,8 +24,6 @@ int main() {
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
 <br />
-
-<h3 align="left">A passionate Softwere Engineer from Sweden</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04" alt="hugow04" /></a> </p>
 
