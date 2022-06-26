@@ -6,9 +6,9 @@
 ###### (this beauty gif is not mine)
 
 # About me
-[![GitHub Snapi](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/xSnapi)
+[![GitHub Snapi](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/HUGOW04)
 <br/>
-[![Youtube Snapi](https://img.shields.io/youtube/channel/subscribers/UC_pgn2Qh4PK-um9TPan3-iw?style=social)](https://www.youtube.com/channel/UC_pgn2Qh4PK-um9TPan3-iw)
+
 
 As for now I'm 17 years old aspiring developer.
 <br/>
