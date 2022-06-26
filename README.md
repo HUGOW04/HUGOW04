@@ -3,6 +3,7 @@
 # Hi, there I’m Hugo! 
 
 ![I have stolen this gif](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
+(https://c.tenor.com/2ObfdQUkkh8AAAAM/bug-fix-fixing-bugs-in-your-code.gif)
 ###### (this beauty gif is not mine)
 
 # About me
