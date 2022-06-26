@@ -16,7 +16,7 @@ I mainly use __C++__, but I can code in other languages too.
 
 ```cpp
 int main() {
-    std::cout << "Hello World!\n"; // fuck std::endl =)
+    std::cout << "Hello World!\n"; 
     return 0;
 }
 ```
