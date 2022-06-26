@@ -6,7 +6,7 @@
 ###### (this beauty gif is not mine)
 
 # About me
-[![GitHub HUGOW04](https://img.shields.io/github/followers/xSnapi?label=follow&style=social)](https://github.com/HUGOW04)
+[![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
 
 
 
