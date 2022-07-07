@@ -38,7 +38,7 @@ int main() {
 
 <p> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hugow04&" alt="hugow04" /> </p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
-<p><img width="490" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&layout=compact" /></p>
+<p><img width="497" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&layout=compact" /></p>
 
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
