@@ -40,10 +40,6 @@ int main() {
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&locale=en" alt="Hugo Winnberg" /></p>
 <p><img width="400" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&langs_count=8" /></p>
 
-<p><img width="400" align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=HUGOW04&langs_count=8](https://github-readme-stats.vercel.app/api/wakatime?username=HUGOW04)](https://github.com/anuraghazra/github-readme-stats)" /></p>
-
-
-
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
 
