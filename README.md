@@ -9,7 +9,7 @@
 [![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
 
 
-
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?HUGOW04" frameborder="0"></iframe>
 
 As for now I'm 17 years old aspiring developer.
 <br/>
