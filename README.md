@@ -1,6 +1,6 @@
 
 
- ![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
+ [](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
  #, there I’m Hugo! 
 
 ![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
