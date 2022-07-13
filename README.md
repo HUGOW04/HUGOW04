@@ -1,10 +1,10 @@
 
 
  ![](https://raw.githubusercontent.com/alansmathew/alansmathew/master/lang.gif)
- ## I’m Hugo! 
+ # I’m Hugo! 
 
 ![](https://c.tenor.com/CwZDbX7DvR8AAAAd/pixel-sakura.gif)
-###### (this beauty gif is not mine)
+
 
 # About me
 [![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
