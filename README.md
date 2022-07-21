@@ -2,7 +2,7 @@
 
 
  # Hi, I’m Hugo! 
-
+As for now I'm 17 years old aspiring developer.
 ![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 
 ### Viewer
@@ -15,8 +15,8 @@
 
 
 
-As for now I'm 17 years old aspiring developer.
-<br/>
+
+
 I mainly use __C++__, but I can code in other languages too.
 
 ```cpp
