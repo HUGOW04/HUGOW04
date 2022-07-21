@@ -30,11 +30,11 @@ int main() {
 
 
 
-![HUGOW04's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&theme=ads-juicy-fresh)
+![HUGOW04's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&theme=dark)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUGOW04&theme=hacker)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=hacker)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=dark)]()
 
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
