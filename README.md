@@ -28,7 +28,7 @@ int main() {
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04" alt="hugow04" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hugow04&theme=tokyonight" alt="hugow04" /></a> </p>
 
 
 
