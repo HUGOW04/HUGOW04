@@ -34,6 +34,9 @@ int main() {
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=dark&layout=compact)]()
 
+![](https://raw.githubusercontent.com/HUGOW04/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/HUGOW04/github-stats/master/generated/overview.svg#gh-light-mode-only)
+
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
 
