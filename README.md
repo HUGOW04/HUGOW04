@@ -30,7 +30,7 @@ int main() {
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=tokyonight)]()
 
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HUGOW04)](https://github.com/anuraghazra/github-readme-stats)
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
 
