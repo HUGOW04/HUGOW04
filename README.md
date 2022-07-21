@@ -2,7 +2,7 @@
 
 
  # Hi, I’m Hugo! 
-As for now I'm 17 years old aspiring developer.
+
 
 ![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
 
@@ -11,6 +11,8 @@ As for now I'm 17 years old aspiring developer.
 
 
 # About me
+As for now I'm 17 years old aspiring developer.
+
 [![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
 
 
