@@ -4,6 +4,7 @@
  # Hi, I’m Hugo! 
 
 ![](https://media.giphy.com/media/bAQH7WXKqtIBrPs7sR/giphy.gif)
+![](https://media.giphy.com/media/d8KefZiJ2ae0VMAmsi/giphy.gif)
 ### Viewer
 ![](https://komarev.com/ghpvc/?username=HUGOW04)
 
