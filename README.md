@@ -8,12 +8,12 @@
 
 ### Viewer
 ![](https://komarev.com/ghpvc/?username=HUGOW04)
-
+[![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
 
 # About me
 As for now I'm 17 years old aspiring developer.
 
-[![GitHub HUGOW04](https://img.shields.io/github/followers/HUGOW04?label=follow&style=social)](https://github.com/HUGOW04)
+
 
 
 
