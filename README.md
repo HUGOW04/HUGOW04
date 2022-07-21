@@ -32,7 +32,7 @@ int main() {
 
 ![HUGOW04's GitHub stats](https://github-readme-stats.vercel.app/api?username=HUGOW04&show_icons=true&theme=dark)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUGOW03&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUGOW04&theme=dark)](https://git.io/streak-stats)
 
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=dark)]()
 
