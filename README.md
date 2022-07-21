@@ -34,7 +34,7 @@ int main() {
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HUGOW04&theme=dark)](https://git.io/streak-stats)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=dark)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HUGOW04&langs_count=5&theme=dark&layout=compact)]()
 
 #### Down here you can find some of my repos __ヾ(•ω•`)o__ 
 
